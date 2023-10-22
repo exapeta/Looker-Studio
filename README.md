@@ -1,0 +1,3 @@
+GOOGLE LOOKER STUDIO
+
+In this screenshot, I've put together a dashboard for current web traffic to my current employers website. It tracks users and bounce rate, and shows the top visited pages. It also shows the sources & mediums that are users are visiting us from. This data is pulled from Google Analytcsi 4, as well as Google Ads. Note: I've used mock data for this example.
